@@ -22,3 +22,5 @@ Such new knowledge, acquired through the development and use of new technologies
 ## News
 
 {{<linkedin>}}
+
+**To contact us:** [chenier.felix@uqam.ca](mailto:chenier.felix@uqam.ca)

@@ -22,3 +22,5 @@ Ces nouvelles connaissances, acquises par le développement et l'utilisation de 
 ## Dernières nouvelles
 
 {{<linkedin>}}
+
+**Nous joindre:** [chenier.felix@uqam.ca](mailto:chenier.felix@uqam.ca)
