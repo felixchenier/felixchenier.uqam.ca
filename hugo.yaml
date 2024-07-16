@@ -1,0 +1,104 @@
+baseURL: 'https://felixchenier.uqam.ca/'
+languageCode: 'fr-ca'
+title: 'Laboratoire de recherche en mobilité et sport adapté'
+theme: 'mainroad'
+
+taxonomies:
+  category: "categories"
+#
+#permalinks:
+#  categories: "/:section/:slug"
+
+Params:
+  customCSS: ["css/custom.css"]
+  logo:
+    image: "img/logo_header.png" # Logo image. Path relative to "static"
+    title: " " # Logo title, otherwise will use site title
+    subtitle: " " # Logo subtitle
+  style:
+    vars:
+      highlightColor: "#4485C0"
+#  sidebar:
+#    home: "right" # Configure layout for home page
+#    list: "right"  # Configure layout for list pages
+#    single: false # Configure layout for single pages
+#    # Enable widgets in given order
+#    #widgets: ["search", "recent", "categories", "taglist", "social", "languages"]      
+#    widgets: ["search", "social"]      
+#  widgets:
+#    social:
+#      linkedin: "felixchenier"
+#      email: "chenier.felix@uqam.ca"
+
+defaultContentLanguage: 'fr'
+defaultContentLanguageInSubdir: true
+languages:
+  fr:
+    contentDir: content
+    disabled: false
+    languageCode: fr-CA
+    languageDirection: ltr
+    languageName: Français
+#    params:
+#      subtitle: Referenz, Tutorials und Erklärungen
+    title: Laboratoire de recherche en mobilité et sport adapté
+    weight: 1
+    menus:
+      main:
+      - name: Accueil
+        pageRef: /
+        url: /
+        weight: 10
+      - name: Membres
+        pageRef: /members
+        url: /members
+        weight: 20
+      - name: Recherche
+        pageRef: /research
+        url: /research
+        weight: 30
+      - name: Publications
+        pageRef: /publications
+        url: /publications
+        weight: 40
+      - name: NextCloud
+        url: https://mosa.uqam.ca
+        weight: 50
+      - name: English
+        url: /en
+        weight: 60
+    
+  en:
+    contentDir: content
+    disabled: false
+    languageCode: en-CA
+    languageDirection: ltr
+    languageName: English
+#    params:
+#      subtitle: Reference, Tutorials, and Explanations
+    title: Mobility and Adaptive Sports Research Lab
+    weight: 2
+    menus:
+      main:
+      - name: Home
+        pageRef: /
+        url: /
+        weight: 10
+      - name: Members
+        pageRef: /members
+        url: /members
+        weight: 20
+      - name: Research
+        pageRef: /research
+        url: /research
+        weight: 30
+      - name: Publications
+        pageRef: /publications
+        url: /publications
+        weight: 40
+      - name: NextCloud
+        url: https://mosa.uqam.ca
+        weight: 50
+      - name: Français
+        url: /fr
+        weight: 60

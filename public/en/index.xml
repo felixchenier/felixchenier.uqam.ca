@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mobility and Adaptive Sports Research Lab</title>
+    <link>http://localhost:1313/en/</link>
+    <description>Recent content on Mobility and Adaptive Sports Research Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-CA</language>
+    <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/en/affiliations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/affiliations/</guid>
+      <description>Affiliations and formation Main affiliations Associate Professor, Physical Activity Sciences Department, Université du Québec à Montréal (UQAM) Researcher, Centre for Interdisciplinary Research in Rehabilitation of Greater Montreal (CRIR) Adjunct Professor, Systems Engineering Department, École de technologie supérieure Other affiliations Regroupement stratégique FRQNT-INTER - regroupementinter.com Réseau FRQS-REPAR - repar.ca Formation 2001-2005: Undergraduate in Electrical Engineering, École Polytechnique de Montréal 2006-2008: M.A.Sc. Microelectronics Engineering / Functional Cerebral Imaging, École Polytechnique de Montréal 2008-2012: Ph.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/en/members/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/members/</guid>
+      <description>Laboratory Members Director Félix Chénier is an Associate Professor at the Université du Québec à Montréal (UQAM), an Associate Professor at the École de technologie supérieure (ÉTS), and a researcher at the Centre de recherche interdisciplinaire en réadaptation du Montréal métropolitain (CRIR). His research focuses on the development of new technologies and the biomechanical study of manual wheelchair propulsion to promote an active lifestyle while preventing the development of musculoskeletal disorders.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/en/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/publications/</guid>
+      <description>Publications Journal Papers Datasets International Conferences Local Conferences </description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/en/studying/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/studying/</guid>
+      <description>Studying at the lab I am regularly recruiting students who are interested in one or many of these topics and fields:&#xA;Biomechanics Software development Electromechanics Systems modelling Musculoskeletal modelling Simulators Adapted sports Mobility If the lab&amp;rsquo;s research program interests you and you identify with these topics and fields, please send your CV and a cover letter to chenier.felix@uqam.ca.</description>
+    </item>
+  </channel>
+</rss>
