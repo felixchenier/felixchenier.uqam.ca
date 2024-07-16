@@ -17,6 +17,11 @@
 .container {
 	font-size: 12pt;
 	max-width: 1200px;
+	text-align: justify;
+}
+
+.primary {
+	margin: 20px;
 }
 
 body {
