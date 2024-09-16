@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Laboratoire de recherche en mobilité et sport adapté</title>
-    <link>https://felixchenier.uqam.ca/fr/</link>
+    <link>http://localhost:1313/fr/</link>
     <description>Recent content on Laboratoire de recherche en mobilité et sport adapté</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-CA</language>
-    <atom:link href="https://felixchenier.uqam.ca/fr/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/fr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://felixchenier.uqam.ca/fr/affiliations/</link>
+      <link>http://localhost:1313/fr/affiliations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://felixchenier.uqam.ca/fr/affiliations/</guid>
+      <guid>http://localhost:1313/fr/affiliations/</guid>
       <description>Affiliations et formation Affiliations principales Professeur agrégé, Département des Sciences de l&amp;rsquo;activité physique, Université du Québec à Montréal (UQAM) Chercheur, Centre de recherche interdisciplinaire en réadaptation du Montréal métropolitain (CRIR) Professeur associé, Département de génie des systèmes, École de technologie supérieure Autres affiliations Regroupement stratégique FRQNT-INTER - regroupementinter.com Réseau FRQS-REPAR - repar.ca Formation 2001-2005 : Baccalauréat en génie électrique, École Polytechnique de Montréal 2006-2008 : Maîtrise en génie microélectronique / imagerie fonctionnelle cérébrale, École Polytechnique de Montréal 2008-2012 : Doctorat en génie / technologies de la santé, École de technologie supérieure (ÉTS) 2012-2014 : Ingénieur de recherche, Laboratoire de recherche en imagerie et orthopédie (LIO), Centre de recherche du CHUM 2014-2015 : Postdoctorat en sciences de la réadaptation, Université de Montréal </description>
     </item>
     <item>
       <title></title>
-      <link>https://felixchenier.uqam.ca/fr/members/</link>
+      <link>http://localhost:1313/fr/members/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://felixchenier.uqam.ca/fr/members/</guid>
+      <guid>http://localhost:1313/fr/members/</guid>
       <description>Membres du laboratoire Directeur Félix Chénier est professeur agrégé à l’Université du Québec à Montréal (UQAM), professeur associé à l’École de technologie supérieure (ÉTS) et chercheur au Centre de recherche interdisciplinaire en réadaptation du Montréal métropolitain (CRIR). Ses travaux de recherche portent sur le développement de nouvelles technologies et sur l’étude biomécanique de la propulsion en fauteuil roulant manuel, dans le but de favoriser un mode de vie actif tout en prévenant le développement de troubles musculosquelettiques.</description>
     </item>
     <item>
       <title></title>
-      <link>https://felixchenier.uqam.ca/fr/publications/</link>
+      <link>http://localhost:1313/fr/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://felixchenier.uqam.ca/fr/publications/</guid>
+      <guid>http://localhost:1313/fr/publications/</guid>
       <description>Publications Articles de journal Datasets Conférences internationales Conférences locales </description>
     </item>
     <item>
       <title></title>
-      <link>https://felixchenier.uqam.ca/fr/studying/</link>
+      <link>http://localhost:1313/fr/studying/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://felixchenier.uqam.ca/fr/studying/</guid>
+      <guid>http://localhost:1313/fr/studying/</guid>
       <description>Étudier au laboratoire Je recrute régulièrement des étudiant(e)s intéressé(e)s par ces sujets et domaines :&#xA;Biomécanique Programmation informatique Électromécanique Modélisation de systèmes Modélisation musculosquelettique Simulateurs Sports adaptés Mobilité Si la programmation de recherche du laboratoire vous intéresse et que vous vous reconnaissez dans ces sujets et domaines, SVP envoyez votre CV et une lettre de motivation à chenier.felix@uqam.ca.</description>
     </item>
   </channel>
