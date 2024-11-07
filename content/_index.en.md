@@ -1,15 +1,16 @@
 # Welcome
 
-|                          ❗️We are currently looking for MSc and PhD students ❗️                          |
-| :------------------------------------------------------------------------------------------------------------------------------: |
-|             [Labbé-Chénier-VR-EN](https://felixchenier.uqam.ca/wp-content/uploads/2024/07/Labbe-Chenier-VR-EN.pdf)             |
-| [Aissaoui-Chénier-ModelisationEN](https://felixchenier.uqam.ca/wp-content/uploads/2024/07/Aissaoui-Chenier-ModelisationEN.pdf) |
+|                               ❗️We are currently looking for MSc and PhD students ❗️                               |
+| :----------------------------------------------------------------------------------------------------------------: |
+| [Master’s students in Engineering : Software, Information Technology or equivalent](files/Labbé-Chénier-VR-EN.pdf) |
+|                      [PhD student in engineering](files/Aissaoui-Chénier-ModélisationEN.pdf)                       |
 
 ----------------
 
-[![picture_right_narrow](https://felixchenier.uqam.ca/wp-content/uploads/2024/03/youtube_link-886x1024.png)](https://www.youtube.com/watch?v=G22UUG6fYaU)
+[![picture_right_narrow](files/youtube.png)](https://www.youtube.com/watch?v=G22UUG6fYaU)
 
-The Mobility and Adaptive Sports Research Lab's mission is to increase fundamental knowledge on the biomechanical interactions between the person, his technical aid and his environment in a context of mobility and practice of adapted sports.
+The Mobility and Adaptive Sports Research Lab's mission is to increase fundamental knowledge 
+on the biomechanical interactions between the person, his technical aid and his environment in a context of mobility and practice of adapted sports.
 
 Such new knowledge, acquired through the development and use of new technologies, is essential to better understand the mechanisms of injury development and the effect of adaptations (eg, positioning, sizing, specific training) on performance, risk of injury, and benefits of adapted physical activity in a functional rehabilitation setting.
 

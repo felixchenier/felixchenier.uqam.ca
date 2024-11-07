@@ -2,88 +2,88 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/en/</loc>
+    <loc>https://felixchenier.uqam.ca/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-CA"
-                href="http://localhost:1313/fr/"
+                href="https://felixchenier.uqam.ca/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="http://localhost:1313/en/"
+                href="https://felixchenier.uqam.ca/en/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/affiliations/</loc>
+    <loc>https://felixchenier.uqam.ca/en/affiliations/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-CA"
-                href="http://localhost:1313/fr/affiliations/"
+                href="https://felixchenier.uqam.ca/fr/affiliations/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="http://localhost:1313/en/affiliations/"
+                href="https://felixchenier.uqam.ca/en/affiliations/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/members/</loc>
+    <loc>https://felixchenier.uqam.ca/en/members/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-CA"
-                href="http://localhost:1313/fr/members/"
+                href="https://felixchenier.uqam.ca/fr/members/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="http://localhost:1313/en/members/"
+                href="https://felixchenier.uqam.ca/en/members/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/publications/</loc>
+    <loc>https://felixchenier.uqam.ca/en/publications/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-CA"
-                href="http://localhost:1313/fr/publications/"
+                href="https://felixchenier.uqam.ca/fr/publications/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="http://localhost:1313/en/publications/"
+                href="https://felixchenier.uqam.ca/en/publications/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/research/</loc>
+    <loc>https://felixchenier.uqam.ca/en/research/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-CA"
-                href="http://localhost:1313/fr/research/"
+                href="https://felixchenier.uqam.ca/fr/research/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="http://localhost:1313/en/research/"
+                href="https://felixchenier.uqam.ca/en/research/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/studying/</loc>
+    <loc>https://felixchenier.uqam.ca/en/studying/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-CA"
-                href="http://localhost:1313/fr/studying/"
+                href="https://felixchenier.uqam.ca/fr/studying/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="http://localhost:1313/en/studying/"
+                href="https://felixchenier.uqam.ca/en/studying/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/categories/</loc>
+    <loc>https://felixchenier.uqam.ca/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-CA"
-                href="http://localhost:1313/fr/categories/"
+                href="https://felixchenier.uqam.ca/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="http://localhost:1313/en/categories/"
+                href="https://felixchenier.uqam.ca/en/categories/"
                 />
   </url>
 </urlset>
