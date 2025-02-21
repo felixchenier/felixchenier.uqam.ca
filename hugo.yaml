@@ -61,9 +61,6 @@ languages:
         pageRef: /publications
         url: /publications
         weight: 40
-      - name: NextCloud
-        url: https://mosa.uqam.ca
-        weight: 50
       - name: English
         url: /en
         weight: 60
@@ -96,9 +93,6 @@ languages:
         pageRef: /publications
         url: /publications
         weight: 40
-      - name: NextCloud
-        url: https://mosa.uqam.ca
-        weight: 50
       - name: Français
         url: /fr
         weight: 60
