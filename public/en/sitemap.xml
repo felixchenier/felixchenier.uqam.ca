@@ -26,18 +26,6 @@
                 href="https://felixchenier.uqam.ca/en/affiliations/"
                 />
   </url><url>
-    <loc>https://felixchenier.uqam.ca/en/members/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-CA"
-                href="https://felixchenier.uqam.ca/fr/members/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-CA"
-                href="https://felixchenier.uqam.ca/en/members/"
-                />
-  </url><url>
     <loc>https://felixchenier.uqam.ca/en/publications/</loc>
     <xhtml:link
                 rel="alternate"
@@ -72,6 +60,18 @@
                 rel="alternate"
                 hreflang="en-CA"
                 href="https://felixchenier.uqam.ca/en/studying/"
+                />
+  </url><url>
+    <loc>https://felixchenier.uqam.ca/en/team/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-CA"
+                href="https://felixchenier.uqam.ca/fr/team/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://felixchenier.uqam.ca/en/team/"
                 />
   </url><url>
     <loc>https://felixchenier.uqam.ca/en/categories/</loc>

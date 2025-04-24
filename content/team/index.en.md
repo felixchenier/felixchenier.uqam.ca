@@ -1,4 +1,4 @@
-# Laboratory Members
+# Team
 
 ## Director
 

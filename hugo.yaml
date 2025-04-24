@@ -1,6 +1,6 @@
 baseURL: 'https://felixchenier.uqam.ca/'
 languageCode: 'fr-ca'
-title: 'Laboratoire de recherche en mobilité et sport adapté'
+title: 'Laboratoire de recherche en mobilité et systèmes adaptés'
 theme: 'mainroad'
 
 taxonomies:
@@ -23,12 +23,20 @@ Params:
 #    list: "right"  # Configure layout for list pages
 #    single: false # Configure layout for single pages
 #    # Enable widgets in given order
-#    #widgets: ["search", "recent", "categories", "taglist", "social", "languages"]      
-#    widgets: ["search", "social"]      
+#    #widgets: ["search", "recent", "categories", "taglist", "social", "languages"]
+#    widgets: ["search", "social"]
 #  widgets:
 #    social:
 #      linkedin: "felixchenier"
 #      email: "chenier.felix@uqam.ca"
+
+markup:
+  goldmark:
+    parser:
+      attribute:
+        block: true
+        title: true
+
 
 defaultContentLanguage: 'fr'
 defaultContentLanguageInSubdir: true
@@ -41,7 +49,7 @@ languages:
     languageName: Français
 #    params:
 #      subtitle: Referenz, Tutorials und Erklärungen
-    title: Laboratoire de recherche en mobilité et sport adapté
+#      title: Laboratoire de recherche en mobilité et sport adapté
     weight: 1
     menus:
       main:
@@ -49,9 +57,13 @@ languages:
         pageRef: /
         url: /
         weight: 10
-      - name: Membres
-        pageRef: /members
-        url: /members
+      - name: Offres de projet
+        pageRef: /studying
+        url: /studying
+        weight: 15
+      - name: Équipe
+        pageRef: /team
+        url: /team
         weight: 20
       - name: Recherche
         pageRef: /research
@@ -64,7 +76,7 @@ languages:
       - name: English
         url: /en
         weight: 60
-    
+
   en:
     contentDir: content
     disabled: false
@@ -73,7 +85,7 @@ languages:
     languageName: English
 #    params:
 #      subtitle: Reference, Tutorials, and Explanations
-    title: Mobility and Adaptive Sports Research Lab
+    title: Mobility and Adaptive Systems Research Lab
     weight: 2
     menus:
       main:
@@ -81,9 +93,13 @@ languages:
         pageRef: /
         url: /
         weight: 10
-      - name: Members
-        pageRef: /members
-        url: /members
+      - name: Project opportunities
+        pageRef: /studying
+        url: /studying
+        weight: 15
+      - name: Team
+        pageRef: /team
+        url: /team
         weight: 20
       - name: Research
         pageRef: /research

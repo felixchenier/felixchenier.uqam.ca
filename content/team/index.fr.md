@@ -1,4 +1,4 @@
-# Membres du laboratoire
+# Équipe
 
 ## Directeur
 
