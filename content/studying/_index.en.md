@@ -37,39 +37,6 @@ As of April 2025, we are currently looking for several graduate students to work
 
 Please send your CV, transcripts, and a cover letter by email to [david.labbe@etsmtl.ca](mailto:david.labbe@etsmtl.ca)
 
----
-
-## Instrumented Wheelchair Wheels
-
-
-![Instrumented wheel picture_right_medium](instrumentedwheel.jpg)
-
-**Funded project starting as soon as possible.**
-
-**Level:** Master’s.
-
-**Desired profile:** Bachelor’s degree in Mechanical or Electrical Engineering or equivalent.
-
-**Summary:** This project aims to design an instrumented wheelchair wheel that measures all six components of force and torque applied by the user to the handrim, as well as wheelchair speed and wheel orientation. We have already developed initial prototypes that now require improvements. This project involves:
-
-1. Designing lighter yet rigid wheels using finite element modeling.
-2. Building, calibrating, and validating a prototype.
-3. Documenting and sharing the prototype as open-source through the [NextWheel](https://github.com/felixchenier/nextwheel) project.
-
-**Supervision:**
-
-- Félix Chénier, Professor, Department of physical activity science, Université du Québec à Montréal (UQAM)
-- Eric Wagnac, P.Eng., Professor, Department of Mechanical Engineering, École de technologie supérieure (ÉTS)
-
-**The candidate must demonstrate:**
-
-- Skills in finite element modeling
-- Strong autonomy
-- High motivation
-- Strong academic record
-- Good communication skills, both oral and written
-
-Please send your CV, transcripts, and a cover letter by email to [chenier.felix@uqam.ca](mailto:chenier.felix@uqam.ca)
 
 ---
 

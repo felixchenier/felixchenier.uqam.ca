@@ -38,39 +38,6 @@ SVP envoyer votre CV, vos relevés de notes ainsi qu’une lettre de motivation 
 
 ---
 
-## Roues instrumentées de fauteuil roulant
-
-![Roue instrumentée picture_right_medium](pictures/DF4C50D1-AC65-400C-9F39-8E3D52BA21C3.jpg)
-
-**Projet avec financement débutant dès que possible.**
-
-**Niveau:** Maîtrise.
-
-**Profil recherché:** Baccalauréat en génie mécanique, électrique ou équivalent.
-
-**Résumé:** Ce projet vise à concevoir une roue instrumentée pour fauteuil roulant qui mesure les 6 composantes de force et de moments appliquée par l'usager sur la main courante, ainsi que la vitesse du fauteuil et l'orientation de la roue. Nous avons déjà développé de premiers prototypes qui doivent toutefois être amélioré. Ce projet consistera à:
-
-1. Concevoir des roues plus légères mais rigides à l'aide de modélisation par éléments finis.
-2. Réaliser, calibrer et valider un prototype.
-3. Documenter et partager ce prototype en open-source via le projet [NextWheel](https://github.com/felixchenier/nextwheel).
-
-**Direction:**
-
-- Félix Chénier, Professeur, Département des sciences de l'activité physique, Université du Québec à Montréal (UQAM)
-- Eric Wagnac, ing., Professeur, Département de génie mécanique, École de technologie supérieure (ÉTS)
-
-**Le/la candidat(e) doit démontrer :**
-
-- Des aptitudes en modélisation par éléments finis
-- Une grande autonomie
-- Une excellente motivation
-- Un bon dossier académique
-- Une bonne capacité à communiquer oralement et par écrit
-
-SVP envoyer votre CV, vos relevés de notes ainsi qu’une lettre de motivation par courriel à [chenier.felix@uqam.ca](mailto:chenier.felix@uqam.ca).
-
----
-
 ## Étude musculosquelettique de la propulsion en fauteuil roulant manuel
 
 ![Modèle musculosquelettique picture_right_medium](opensim.png)
