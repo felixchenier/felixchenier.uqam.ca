@@ -4,42 +4,6 @@ As of April 2025, we are currently looking for several graduate students to work
 
 ---
 
-## Clinical Interface for Wheelchair Simulator
-
-![Simulateur picture_right_medium](simulator.png)
-
-
-**Funded project starting as soon as possible.**
-
-**Level:** Master’s.
-
-**Desired profile:** Bachelor’s or Master’s degree in Software Engineering or equivalent.
-
-**Summary:** This project aims to enhance the visual immersion of a manual wheelchair propulsion simulator and to develop the simulator's interface so that it can be used by clinicians during training sessions with patients. Specifically:
-
-1. Improve visual immersion using an additional projector (wall, floor) to better represent obstacles.
-2. Co-develop a user interface with clinicians to operate the simulator.
-3. Validate the simulator’s clinical use with clinicians and their patients.
-
-**Supervision:**
-
-- David Labbé, P.Eng., Professor, Department of Software and IT Engineering, École de technologie supérieure (ÉTS)
-- Félix Chénier, Professor, Department of Physical Activity Science, Université du Québec à Montréal (UQAM)
- 
-
-**The candidate must demonstrate:**
-
-- Knowledge of the Unity environment
-- Strong autonomy, especially in programming and debugging
-- High motivation
-- Strong academic record
-- Good communication skills, both oral and written
-
-Please send your CV, transcripts, and a cover letter by email to [david.labbe@etsmtl.ca](mailto:david.labbe@etsmtl.ca)
-
-
----
-
 ## Musculoskeletal Study of Manual Wheelchair Propulsion
 
 ![Musculoskeletal model picture_right_medium](opensim.png)

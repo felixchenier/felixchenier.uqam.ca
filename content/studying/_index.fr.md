@@ -4,40 +4,6 @@ Nous sommes actuellement (en date d'avril 2025) à la recherche de plusieurs ét
 
 ---
 
-## Interface clinique pour simulateur de fauteuil roulant
-
-![Simulateur picture_right_medium](simulator.png)
-
-**Projet avec financement débutant dès que possible.**
-
-**Niveau:** Maîtrise.
-
-**Profil recherché:** Baccalauréat ou maîtrise en génie logiciel ou équivalent.
-
-**Résumé:** Ce projet vise à bonifier l’immersion visuelle d'un simulateur de propulsion en fauteuil roulant manuel, et à développer l’aspect d’interface de ce simulateur afin qu’il puisse être utilisé par des cliniciens dans le cadre d’entraînements avec leurs patients. Plus précisément :
-
-1. Augmenter l’immersion visuelle avec un projecteur supplémentaire (mur, plancher) afin d’améliorer la représentation des obstacles.
-2. Développer, conjointement avec des cliniciens, une interface utilisateur permettant d’opérer le simulateur.
-3. Valider l’usage du simulateur en clinique avec des cliniciens et leurs patients,
-
-**Direction:**
-
-- David Labbé, ing., Professeur, Département de génie logiciel et des TI, École de technologie supérieure (ÉTS)
-- Félix Chénier, Professeur, Département des sciences de l'activité physique, Université du Québec à Montréal (UQAM)
-
-**Le/la candidat(e) doit démontrer :**
-
-- Une connaissance de l'environnement Unity
-- Une grande autonomie, particulièrement en lien avec la programmation et le débogage
-- Une excellente motivation
-- Un bon dossier académique
-- Une bonne capacité à communiquer oralement et par écrit
-
-SVP envoyer votre CV, vos relevés de notes ainsi qu’une lettre de motivation par courriel à [david.labbe@etsmtl.ca](mailto:david.labbe@etsmtl.ca)
-
-
----
-
 ## Étude musculosquelettique de la propulsion en fauteuil roulant manuel
 
 ![Modèle musculosquelettique picture_right_medium](opensim.png)
