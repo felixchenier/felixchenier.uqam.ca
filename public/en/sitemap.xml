@@ -2,88 +2,88 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://felixchenier.uqam.ca/en/</loc>
+    <loc>http://localhost:1313/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-CA"
-                href="https://felixchenier.uqam.ca/fr/"
+                href="http://localhost:1313/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://felixchenier.uqam.ca/en/"
+                href="http://localhost:1313/en/"
                 />
   </url><url>
-    <loc>https://felixchenier.uqam.ca/en/affiliations/</loc>
+    <loc>http://localhost:1313/en/affiliations/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-CA"
-                href="https://felixchenier.uqam.ca/fr/affiliations/"
+                href="http://localhost:1313/fr/affiliations/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://felixchenier.uqam.ca/en/affiliations/"
+                href="http://localhost:1313/en/affiliations/"
                 />
   </url><url>
-    <loc>https://felixchenier.uqam.ca/en/publications/</loc>
+    <loc>http://localhost:1313/en/publications/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-CA"
-                href="https://felixchenier.uqam.ca/fr/publications/"
+                href="http://localhost:1313/fr/publications/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://felixchenier.uqam.ca/en/publications/"
+                href="http://localhost:1313/en/publications/"
                 />
   </url><url>
-    <loc>https://felixchenier.uqam.ca/en/research/</loc>
+    <loc>http://localhost:1313/en/research/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-CA"
-                href="https://felixchenier.uqam.ca/fr/research/"
+                href="http://localhost:1313/fr/research/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://felixchenier.uqam.ca/en/research/"
+                href="http://localhost:1313/en/research/"
                 />
   </url><url>
-    <loc>https://felixchenier.uqam.ca/en/studying/</loc>
+    <loc>http://localhost:1313/en/studying/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-CA"
-                href="https://felixchenier.uqam.ca/fr/studying/"
+                href="http://localhost:1313/fr/studying/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://felixchenier.uqam.ca/en/studying/"
+                href="http://localhost:1313/en/studying/"
                 />
   </url><url>
-    <loc>https://felixchenier.uqam.ca/en/team/</loc>
+    <loc>http://localhost:1313/en/team/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-CA"
-                href="https://felixchenier.uqam.ca/fr/team/"
+                href="http://localhost:1313/fr/team/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://felixchenier.uqam.ca/en/team/"
+                href="http://localhost:1313/en/team/"
                 />
   </url><url>
-    <loc>https://felixchenier.uqam.ca/en/categories/</loc>
+    <loc>http://localhost:1313/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-CA"
-                href="https://felixchenier.uqam.ca/fr/categories/"
+                href="http://localhost:1313/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://felixchenier.uqam.ca/en/categories/"
+                href="http://localhost:1313/en/categories/"
                 />
   </url>
 </urlset>
